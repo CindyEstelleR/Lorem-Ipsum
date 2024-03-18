@@ -11,14 +11,14 @@ const App = () => {
   return (
     <>
       <Content
-        title={"Lorem"}
-        text={
+        contentTitle={"Lorem"}
+        contentText={
           "In eget turpis non tortor iaculis tincidunt. Ut egestas feugiat magna. Duis enim nibh, gravida vel, nonummy non, sollicitudin ac, enim. Sed in tortor sed tellus eleifend cursus. Morbi a dolor at nibh molestie faucibus. Duis sed wisi. Duis fringilla, dui et malesuada dignissim, elit eros dictum lacus, rhoncus imperdiet pede elit nec tellus. Aenean at ligula eget nulla imperdiet faucibus. Quisque vestibulum lorem ac leo. Sed laoreet neque ut magna."
         }
       />
       <Content
-        title={"Ipsum"}
-        text={
+        contentTitle={"Ipsum"}
+        contentText={
           "Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel justo vitae lacus tincidunt ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In hac habitasse platea dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc elementum fermentum wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, ac pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus nibh sit amet nisl. Vivamus quis tortor vitae risus porta vehicula."
         }
       />
